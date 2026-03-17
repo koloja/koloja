@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-Hey, i'm koloja a software developer from Earth. **I mainly specialize in Typescript and Kotlin** but im working on getting Rust up there. I am currently working on a game / game engine called [Mango](https://github.com/mongloom).
+Hey, i'm koloja a software developer from Earth. **I mainly specialize in Typescript and Kotlin** but im working on getting Rust up there. I am currently working on a game / Minecraft server called [Arsenal](https://discord.gg/KRRybNJ5Cp).
 
 
 ### Main skills
